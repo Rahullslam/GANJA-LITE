@@ -21,13 +21,13 @@ rm -rf GANJA
 
 git clone https://github.com/B0B-MARLEY/GANJA-LITE.git
 
-cd GANJA
+cd GANJA-LITE
 
 chmod +x *
 
 ./B0B
 ```
-# 𝑵𝑶𝑻𝑬/- [ This tool is paid ]
+
 
 
 
