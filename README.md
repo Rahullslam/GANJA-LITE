@@ -19,7 +19,7 @@ pkg i python
 
 rm -rf GANJA
 
-git clone https://github.com/B0B-MARLEY/GANJA.git
+git clone https://github.com/B0B-MARLEY/GANJA-LITE.git
 
 cd GANJA
 
