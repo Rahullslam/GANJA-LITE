@@ -1,15 +1,15 @@
 
-# ❤︎__𝑪𝒍𝒐𝒏𝒆𝒊𝒏𝒈 𝑻𝒐𝒐𝒍#!
+# GANJA
+BD,IN,PK CLONEING TOOL
 
-$ FILE CLONE
 
-$ EMAIL CLONE
 
-$ MIX ID CLONE
 
-WORKING ON ANY BIT,
 
-WIFI & DATA🔥
+
+
+
+
 
 ❤︎__𝑻𝒐𝒐𝒍#!
 ```
