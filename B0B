@@ -1,7 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/python
-import platform,os
+import platform,os,sys
 os.system("clear")
 os.system("pkg install espeak")
+os.system("termux-setup-storage")
+
 print('\033[1;91m[\033[1;97m-\033[1;91m] \033[1;97m𝘾𝙃𝘼𝘾𝙆𝙄𝙉>')
 bit = platform.architecture()[0]
 if bit == '64bit':
