@@ -1,9 +1,9 @@
 
 # GANJA
 THIS TOOL IS FREE FOR ALL
-BUT YOU NEED ADMIN 
-   'PERMISSION'
-TO USE THE TOOL🔥🔥
+USERS
+
+🔥🔥
 
 
 
