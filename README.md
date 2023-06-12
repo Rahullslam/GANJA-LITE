@@ -1,9 +1,4 @@
 
-# GANJA
-THIS TOOL IS FREE FOR ALL
-USERS
-
-🔥🔥
 
 
 
@@ -14,7 +9,8 @@ USERS
 
 
 
-❤︎__𝑻𝒐𝒐𝒍#!
+
+# ❤︎__𝑻𝒐𝒐𝒍#!
 ```
 pkg i git
 
